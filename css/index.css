@@ -97,3 +97,15 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+.fechar{/* float: left; */
+position: fixed;
+bottom: 0px;
+right: 0px;
+/* margin: 0 auto; */
+/* margin-left: 48%; */
+color: #fff;
+background-color:rgba(18, 65, 138,1);
+/* width: 8%; */
+text-align: center;
+font-size: 3.0em;
+padding: 5px 15px 5px 15px;}
